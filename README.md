@@ -20,5 +20,3 @@ For valid JSON formats and properties please check out the <a href="https://driv
 
 # 
 License MIT
-
-https://driverjs.com/docs/basic-usage
