@@ -1,0 +1,35 @@
+{
+    "name" : "Contextual Help",
+    "version" : "1.0",
+    "description" : "This plug-in creates a dynamic action which helps to explore and drive the user in the site with contextual help dialogs.",
+    "keywords" : ["contextual help","help text","dynamic action","plugin","product tour"],
+    "homepage" : "https://github.com/baldogiRichard/apex-contextual-help",
+    "bugs" : {
+      "url" : "https://github.com/baldogiRichard/apex-contextual-help/issues",
+      "email" : "baldogi.richard@gmail.com"
+    },
+    "license" : "MIT",
+    "commercial" : "No",
+    "author" : {
+      "name" : "Richard Baldogi",
+      "email" : "baldogi.richard@gmail.com",
+      "url" : "https://www.linkedin.com/in/rb-627543146",
+      "twitter": "@O_APEX_Hungary"
+    },
+    "repository" : {
+      "type" : "git",
+      "url" : "https://github.com/baldogiRichard/apex-contextual-help.git"
+    },
+   "oracle" : {
+      "versions" : ["19.0.0.0","21.0.0.0","23.0.0.0"],
+      "apex" : {
+        "versions" : ["24.2"],
+        "plugin" : {
+          "internalName" : "COM.CONTEXTUALHELP.PLUGIN",
+          "type" : "dynamic action",
+          "demo" : "https://apex.oracle.com/pls/apex/r/rmzrt/apex-plugins-by-richard-baldogi/home",
+          "previewImage" : ".gif"
+        }
+      }
+    }
+  }
