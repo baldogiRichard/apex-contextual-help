@@ -28,7 +28,7 @@
           "internalName" : "COM.CONTEXTUALHELP.PLUGIN",
           "type" : "dynamic action",
           "demo" : "https://apex.oracle.com/pls/apex/r/rmzrt/apex-plugins-by-richard-baldogi/home",
-          "previewImage" : "contextualhelp.gif"
+          "previewImage" : "https://raw.githubusercontent.com/baldogiRichard/apex-contextual-help/main/contextualhelp.gif"
         }
       }
     }
